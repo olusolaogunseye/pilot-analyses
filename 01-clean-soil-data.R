@@ -49,5 +49,7 @@ git add 01-clean-soil-data.R
 git commit -m "initialize cleaning script"
 #To see if the commit was successful, use git log
 git log
+# Branching 
 # read in additional soil data
 df2 <- read.csv("...")
+library(ggplot2)
